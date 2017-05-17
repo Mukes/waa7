@@ -22,5 +22,6 @@
 	</table>
 	
 	<a href="addCar.html"> Add a Car</a>
+	<a href="books"> List of Books</a>
 </body>
 </html>
